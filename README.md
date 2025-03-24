@@ -3,7 +3,7 @@ Code for the testing and movement of Art Robot
 
 Project uses the MakeBlock 2.0 Robotic kit, specifically 3 encoder motors to faciliate movement.
 
-/***************************************************
+
  *                Robotics_art_single.ino
  *
  *
@@ -12,11 +12,10 @@ Project uses the MakeBlock 2.0 Robotic kit, specifically 3 encoder motors to fac
  * Uses commands such as penUp and penDown to determine if end effector is on page or not
  * Uses PID and PWM to determine voltage to motors.
  * This code takes assumes an initalization position where both arms of the robot are straight outwards.
- ***************************************************/
 
 
 
-   /***************************************************
+
  *                TestEncoders.ino
  *
  * This code tests the encoder readings for the
@@ -24,4 +23,4 @@ Project uses the MakeBlock 2.0 Robotic kit, specifically 3 encoder motors to fac
  * counts and computed angles so you can manually 
  * move the arms and note the limits.
  * 
- ***************************************************/
+
